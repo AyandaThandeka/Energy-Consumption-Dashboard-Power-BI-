@@ -46,7 +46,8 @@ Includes sections for:
 - Slicers for filtering  
 - KPI summary indicators  
 
----
+<img width="1317" height="737" alt="Screenshot 2025-11-15 152245" src="https://github.com/user-attachments/assets/68092e16-1b7a-4b0a-8324-3410b8118d04" />
+
 
 ## Project Files
 
