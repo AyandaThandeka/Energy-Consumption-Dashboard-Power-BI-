@@ -51,7 +51,7 @@ Includes sections for:
 ## Project Files
 
 This repository contains:
-- Electricity_Consumption.pbix (Main Power BI report)
+- Energy Consumptions Dashboar.pbix (Main Power BI report)
 - Raw dataset file (Excel)
 - Screenshots (Screenshots of dashboard visuals)
 
