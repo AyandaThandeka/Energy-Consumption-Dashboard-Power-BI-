@@ -1,3 +1,5 @@
+<img width="1317" height="737" alt="Screenshot 2025-11-15 152245" src="https://github.com/user-attachments/assets/68092e16-1b7a-4b0a-8324-3410b8118d04" />
+
 ## Energy Consumption Dashboard (Power BI)
 
 This project provides a comprehensive analysis of electricity, gas, and water consumption across multiple buildings. The dashboard helps organizations monitor energy usage trends, track costs, and compare consumption across locations over time.
@@ -45,9 +47,6 @@ Includes sections for:
 - Building icon visuals  
 - Slicers for filtering  
 - KPI summary indicators  
-
-<img width="1317" height="737" alt="Screenshot 2025-11-15 152245" src="https://github.com/user-attachments/assets/68092e16-1b7a-4b0a-8324-3410b8118d04" />
-
 
 ## Project Files
 
